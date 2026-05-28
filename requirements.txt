@@ -1,0 +1,14 @@
+streamlit
+pandas
+transformers
+torch
+textblob
+deep-translator
+sentence-transformers
+scikit-learn
+fpdf
+langdetect
+accelerate
+sentencepiece
+plotly
+praw
